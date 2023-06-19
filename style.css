@@ -1,0 +1,22 @@
+pre {
+    font-size: 25px;
+    margin: 0.2;
+    margin-left: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+}
+p {
+    font-size: 30px;
+}
+b{
+    font-size: 25px;
+}
+li {
+    font-size: 30px;
+}
+header{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
